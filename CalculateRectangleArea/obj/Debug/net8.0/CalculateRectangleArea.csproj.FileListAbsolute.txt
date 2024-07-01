@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\bin\Debug\net8.0\CalculateRectangleArea.exe
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\bin\Debug\net8.0\CalculateRectangleArea.deps.json
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\bin\Debug\net8.0\CalculateRectangleArea.runtimeconfig.json
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\bin\Debug\net8.0\CalculateRectangleArea.dll
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\bin\Debug\net8.0\CalculateRectangleArea.pdb
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.dll
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net8.0\refint\CalculateRectangleArea.dll
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.pdb
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net8.0\CalculateRectangleArea.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\CalculateRectangleArea\CalculateRectangleArea\obj\Debug\net8.0\ref\CalculateRectangleArea.dll
